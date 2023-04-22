@@ -5,3 +5,4 @@ Se agrega linea
 Se agrega linea 2
 Se agrega nombre Juan
 Se agrega apellido 
+Se agrega cedula
